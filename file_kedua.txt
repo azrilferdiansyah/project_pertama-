@@ -1,0 +1,5 @@
+file kedua ini berisi rician materi flatter
+1. dart
+2. flatter
+3. backhand
+4. fronthand
